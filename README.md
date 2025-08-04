@@ -53,5 +53,3 @@
 Все сведения публикуются «как есть» и помогают осознать риски, связанные с цифровым следом и сохранностью информации в сети.
 
 [Вернуться к каталогу OSINT-инструментов](https://github.com/OSINT-searcher/probiv_i_OSINT_instrumenti)
-
-[Открыть статью как отдельную страницу](https://osint-searcher.github.io/OSINT_i_probiv_po_arhivam/)
